@@ -5,7 +5,7 @@ color: aliceblue;
 }
 
 .cartao{
-    background-color: aliceblue;
+    background-color: rgb(204, 196, 78);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
