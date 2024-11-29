@@ -4,17 +4,18 @@ font-family:Parkinsans;
 color: aliceblue;
 }
 
-footer{
+.cartao{
+    background-color: aliceblue;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
  }
  
 .cartao__conteudo{
-text-align: center;
-height: 100%;
+    text-align: center;
+    height: 100%;
 }
-body{
+footer{
  background-color: blueviolet;
     color: azure;
     bottom: 0%;
