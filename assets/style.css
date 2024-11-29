@@ -5,7 +5,17 @@ color: aliceblue;
 }
 
 footer{
-    background-color: blueviolet;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+ }
+ 
+.cartao__conteudo{
+text-align: center;
+height: 100%;
+}
+body{
+ background-color: blueviolet;
     color: azure;
     bottom: 0%;
     position: fixed;
